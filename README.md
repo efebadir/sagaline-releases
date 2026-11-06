@@ -2,6 +2,8 @@
   <img src="docs/sagaline-icon.svg" width="72" alt="Sagaline logo">
 </p>
 
+<p align="center">🇬🇧 English · <a href="README_TR.md">🇹🇷 Türkçe</a> · <a href="README_ES.md">🇪🇸 Español</a></p>
+
 <h1 align="center">Sagaline</h1>
 
 <p align="center">
@@ -16,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshot.png" alt="Sagaline library: series cards with progress and the next episode" width="900">
+  <img src="docs/screenshot-en.png" alt="Sagaline library: series cards with progress and the next episode" width="900">
 </p>
 
 ## Why
