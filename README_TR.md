@@ -47,7 +47,7 @@ Resimli adım adım rehber: [sagaline.app/download](https://sagaline.app/downloa
 
 Bu depoda **Windows kurulum dosyaları ve güncelleme bilgisi** ([Releases](https://github.com/efebadir/sagaline-releases/releases)) durur. Uygulamanın kaynak kodu şimdilik gizli.
 
-Bir hata buldun ya da bir fikrin mi var? Sitedeki [Sorun bildir](https://sagaline.app/report) formunu kullan ya da burada bir issue aç.
+Bir hata buldun ya da bir fikrin mi var? Sitedeki [Sorun bildir](https://sagaline.app/report) formunu kullan ya da burada bir issue aç. Kısa soruların için [Discord](https://discord.gg/xpfmS7CYSd) sunucumuz da var.
 
 Sagaline listeni toparlamana yardım ettiyse bir ⭐ başka anime severlerin de onu bulmasını sağlar.
 

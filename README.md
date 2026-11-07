@@ -47,7 +47,7 @@ Step-by-step guide with pictures: [sagaline.app/download](https://sagaline.app/d
 
 This repo holds the **Windows installers and the update feed** ([Releases](https://github.com/efebadir/sagaline-releases/releases)). The app's source code is private for now.
 
-Found a bug or have an idea? Use [Report an issue](https://sagaline.app/report) on the site, or open an issue here.
+Found a bug or have an idea? Use [Report an issue](https://sagaline.app/report) on the site, or open an issue here. Quick questions are welcome on [Discord](https://discord.gg/xpfmS7CYSd).
 
 If Sagaline helps you keep your list in order, a ⭐ helps other anime fans find it.
 
